@@ -1,5 +1,5 @@
 # VirtualCamera
-Custom background with virtual camera
+Create a virtual camera with custom background
 
 ## Installing
 ```
